@@ -18,3 +18,4 @@
 ## Resources:
 
 - jQuery(validation, validation-unobtrusive)
+- dbo contendo os objetos do Models
